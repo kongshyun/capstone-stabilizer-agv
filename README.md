@@ -21,5 +21,5 @@ space key, s : force stop
 CTRL-C to quit
 ```
 <img width="393" alt="ros_node" src="https://github.com/user-attachments/assets/07d92cc2-4dce-48ba-9e28-05e4e7be9f83" />
-
-<img width="308" alt="캡스톤작품사진" src="https://github.com/user-attachments/assets/5e2ff3d5-5d03-42c8-a928-b508ee9593d1" />
+<br>
+<img width="500" alt="캡스톤작품사진" src="https://github.com/user-attachments/assets/5e2ff3d5-5d03-42c8-a928-b508ee9593d1" />
